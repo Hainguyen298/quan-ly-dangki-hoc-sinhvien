@@ -26,8 +26,7 @@ Chương trình quản lý đăng ký học phần của sinh viên được xâ
 - Lập trình hướng đối tượng (OOP)
 - Lưu trữ dữ liệu bằng file TXT
 
-## Cách chạy code
-
-```bash
-g++ *.cpp -o app
-./app
+## Công nghệ
+- C++
+- OOP
+- File I/O
