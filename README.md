@@ -30,10 +30,6 @@ Chương trình quản lý đăng ký học phần của sinh viên được xâ
 - Quản lý mã nguồn bằng Git và GitHub
 
 
-## Lệnh chạy code
-cd quan-li-dangkihoc-sinhvien && g++ *.cpp -o app && ./app
-./app
-
 ## Thành Viên Nhóm
 
 | STT | Họ và Tên | Mã SV
@@ -50,5 +46,18 @@ cd quan-li-dangkihoc-sinhvien && g++ *.cpp -o app && ./app
 - Bên cạnh đó, dự án còn hướng đến việc thực hành các kỹ thuật lập trình quan trọng như xây dựng lớp và đối tượng, sử dụng constructor, getter/setter, quản lý dữ liệu bằng STL Vector, xử lý ngoại lệ, đọc ghi dữ liệu bằng File I/O và tổ chức mã nguồn thành nhiều module độc lập để tăng khả năng bảo trì và mở rộng trong tương lai.
 
 - Thông qua quá trình thực hiện dự án, các thành viên có cơ hội nâng cao kỹ năng phân tích yêu cầu, thiết kế hệ thống, lập trình nhóm và sử dụng Git/GitHub để quản lý phiên bản mã nguồn. Đây cũng là nền tảng giúp nhóm tiếp cận các hệ thống quản lý thực tế có quy mô lớn hơn trong lĩnh vực giáo dục và công nghệ thông tin.
+
+
+
+## Yêu cầu môi trường
+
+- Hệ điều hành: Windows / Linux
+- Trình biên dịch: g++ hỗ trợ chuẩn C++11 trở lên
+
+## Thành viên nhóm
+
+1. Nguyễn Hoàng Hải
+2. Nguyễn Duy Tiến
+
 
 
