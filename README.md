@@ -31,8 +31,7 @@ Chương trình quản lý đăng ký học phần của sinh viên được xâ
 
 
 ## Lệnh chạy code
-- cd quan-li-dangkihoc-sinhvien
-g++ *.cpp -o app
+cd quan-li-dangkihoc-sinhvien && g++ *.cpp -o app && ./app
 ./app
 
 ## Thành Viên Nhóm
