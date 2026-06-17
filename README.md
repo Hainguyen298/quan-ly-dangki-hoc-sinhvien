@@ -59,5 +59,6 @@ Chương trình quản lý đăng ký học phần của sinh viên được xâ
 1. Nguyễn Hoàng Hải
 2. Nguyễn Duy Tiến
 
-
+$$bash
+cd quan-li-dangkihoc-sinhvien && g++ *.cpp -o app && ./app
 
