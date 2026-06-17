@@ -30,3 +30,8 @@ Chương trình quản lý đăng ký học phần của sinh viên được xâ
 - C++
 - OOP
 - File I/O
+
+## Lệnh chạy code
+- cd quan-li-dangkihoc-sinhvien
+g++ *.cpp -o app
+./app
